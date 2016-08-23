@@ -56,16 +56,6 @@ a {
     color:#fff;
 }
 
-@media (max-width: 737px) {
-    p {
-        padding:2em;
-    }
-    
-    input {
-    width: 80vw;
-    }
-}
-
 /* Modals */
 
 .modal {
@@ -119,4 +109,15 @@ input[type=submit] {
 
 form {
     margin-top: 1em;
+}
+
+
+@media (max-width: 737px) {
+    p {
+        padding:2em;
+    }
+    
+    input {
+    width: 80vw;
+    }
 }
