@@ -61,6 +61,9 @@ a {
         padding:2em;
     }
     
+    input {
+    width: 50vw;
+    }
 }
 
 /* Modals */
@@ -101,7 +104,7 @@ label {
 input {
     box-sizing: border-box;
     padding: .3em;
-    width: 80vw;
+    width: 50vw;
     font-family: 'Slabo 27px', serif;
     font-size: 1.4em;
     line-height: 1.6em;
