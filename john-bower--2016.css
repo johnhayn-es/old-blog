@@ -114,5 +114,6 @@ input[type=submit] {
     margin-top: .7em;
 }
 
-button {
+form {
+    margin-top: .3em;
 }
