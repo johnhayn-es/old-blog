@@ -17,6 +17,8 @@
       $('#success').show('fast');
     }else if(locationHash == 'noproblem'){
       $('#noproblem').show('fast');
+    }else if(locationHash == 'subscribe'){
+      $('#subscribe').show('fast');
     }
     
     $('.alert-close').click(function(){
@@ -77,7 +79,10 @@
     </div>
     <div class="modal" id="subscribe">
         <div class="mobile-table">
-            <div class="mobile-cell blue">            
+            <div class="mobile-cell blue">
+                <p class="small">
+                    I send occasional emails about techniques I have used to build an audience. 
+                </p>
                 <form action="https://viate.us7.list-manage.com/subscribe/post" method="POST">
                     <input type="hidden" name="u" value="49aee31b56d6be69282235eff">
                     <input type="hidden" name="id" value="51b316bfe1">  
@@ -113,11 +118,14 @@
                         </div>
                     </div>
                     <div class="submit_container clear">
-                        <input type="submit" class="button" name="submit" value="Subscribe to list">
+                        <input type="submit" class="button pink" name="submit" value="Subscribe">
                     </div>
                     <input type="hidden" name="ht" value="6f0bc4b5d07d56bb46a34c2df9d31681f4565453:MTQ3MTg2MDA2MS41MTcy">
                     <input type="hidden" name="mc_signupsource" value="hosted">
                 </form>
+                <p>
+                    <span class="alert-close">cancel</span>
+                </p>
             </div>
         </div>
     </div>
