@@ -37,6 +37,7 @@ a {
 }
 
 .text-container {
+    display:inline-block;
     background:#fff;
     padding:1em;
     color:#303030;
