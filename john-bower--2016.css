@@ -36,28 +36,30 @@ a {
     vertical-align: middle;
 }
 
+.text-container {
+    background:#fff;
+    padding:1em;
+    color:#303030;
+}
+
 .white {
     background-image: url("https://s3-eu-west-1.amazonaws.com/johnmabower.co.uk/square-yellow.png");
     background-repeat: repeat;
-    color:#303030;
 }
 
 .pink {
     background-image: url("https://s3-eu-west-1.amazonaws.com/johnmabower.co.uk/square-pink.png");
     background-repeat: repeat;
-    color:#ff0057;
 }
 
 .blue {
     background-image: url("https://s3-eu-west-1.amazonaws.com/johnmabower.co.uk/square-blue.png");
     background-repeat: repeat;
-    color:#4dc4c2;
 }
 
 .orange {
     background-image: url("https://s3-eu-west-1.amazonaws.com/johnmabower.co.uk/square-orange.png");
     background-repeat: repeat;
-    color:#f8b41c;
 }
 
 /* Modals */
