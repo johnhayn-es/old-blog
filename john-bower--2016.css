@@ -42,6 +42,7 @@ a {
 }
 
 .pink {
+    background-image: url("https://s3-eu-west-1.amazonaws.com/johnmabower.co.uk/square-yellow.png");
     background:#ff0057;
     color:#fff;
 }
