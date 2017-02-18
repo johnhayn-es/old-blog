@@ -37,24 +37,27 @@ a {
 }
 
 .white {
+    background-image: url("https://s3-eu-west-1.amazonaws.com/johnmabower.co.uk/square-yellow.png");
     background:#fff;
     color:#303030;
 }
 
 .pink {
-    background-image: url("https://s3-eu-west-1.amazonaws.com/johnmabower.co.uk/square-yellow.png");
-    background:#ff0057;
-    color:#fff;
+    background-image: url("https://s3-eu-west-1.amazonaws.com/johnmabower.co.uk/square-pink.png");
+    background:#fff;
+    color:#ff0057;
 }
 
 .blue {
-    background:#4dc4c2;
-    color:#fff;
+    background-image: url("https://s3-eu-west-1.amazonaws.com/johnmabower.co.uk/square-blue.png");
+    background:#fff;
+    color:#4dc4c2;
 }
 
 .orange {
-    background:#f8b41c;
-    color:#fff;
+    background-image: url("https://s3-eu-west-1.amazonaws.com/johnmabower.co.uk/square-orange.png");
+    background:#fff;
+    color:#f8b41c;
 }
 
 /* Modals */
