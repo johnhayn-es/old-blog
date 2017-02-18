@@ -40,6 +40,8 @@ a {
     background:#fff;
     padding:1em;
     color:#303030;
+    width:auto;
+    margin:0 auto;
 }
 
 .white {
