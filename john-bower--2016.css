@@ -44,7 +44,7 @@ a {
     padding:1em;
     color:#303030;
     width:auto;
-    margin:0 auto;
+    margin:2em;
 }
 
 .white {
@@ -126,9 +126,6 @@ form {
 @media (max-width: 737px) {
     p {
         padding:1em;
-    }
-    text-container {
-     margin:2em;   
     }
     
     input {
