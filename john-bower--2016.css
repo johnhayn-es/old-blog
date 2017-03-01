@@ -125,7 +125,8 @@ form {
 
 @media (max-width: 737px) {
     p {
-        padding:2em;
+        padding:1em;
+        margin:1em;
     }
     
     input {
