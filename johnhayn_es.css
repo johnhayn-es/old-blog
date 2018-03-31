@@ -42,7 +42,7 @@ a {
     width: 640px;
     height: 400px;
     background: #fafafa;
-    background-image: url('https://s3.eu-west-2.amazonaws.com/johnhayn-es/john.png');
+    background-image: url("john.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -111,7 +111,6 @@ a {
     align-items: center;
     width: 100%;
     height: 100vh;
-    background-image: url("john.png");
     background-repeat: no-repeat;
     background-position: top;
     }
