@@ -43,7 +43,7 @@ a {
     height: 400px;
     background: #fafafa;
     background-image: url("https://s3.eu-west-2.amazonaws.com/johnhayn-es/IMG_2883.jpg");
-    background-size:cover;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
 }
