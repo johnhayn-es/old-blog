@@ -37,7 +37,7 @@ a {
 
 .container {
     display: flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
     align-items: center;
     width: 640px;
     height: 400px;
